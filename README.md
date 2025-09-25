@@ -1,16 +1,35 @@
-## Hi there 👋
+![Hi](https://media1.tenor.com/m/dj2wXFsd6ukAAAAd/hello-hi.gif)
 
-<!--
-**LucasGL-png/LucasGL-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is a PRO GitHub account
+This is my private account for my job as Power Plateform Dev and IT at Golegal.
 
-Here are some ideas to get you started:
+### The main techno I use and learn true my job
+-  Power pages
+-  Power automate
+-  Power BI
+-  Html 5
+-  CSS
+-  Javascript
+    - Ajax
+    - JQuerry
+    - Dom Manipulation
+    - Termninal
+      - PowerShell / Bash
+      - CLI VsCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So here you could not find any of my public repositories.
+
+If you feel interested to look forward about my other jobs,  
+I encourage you to see my main GitHub account (really, it's REALLY FUN)  
+
+<a href="https://www.github.com/cccLUCASccc">
+  <img src="https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif" alt="lets party" width="300"/>
+</a>  
+
+
+[🚀 Click here to visit my GitHub 🚀](https://www.github.com/cccLUCASccc)
+
+---
+
+### Goodbye
+![Bye](https://media1.tenor.com/m/FT0uXfx_ZgoAAAAC/mr-bean.gif)
