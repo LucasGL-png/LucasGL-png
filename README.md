@@ -22,12 +22,7 @@ So here you could not find any of my public repositories.
 If you feel interested to look forward about my other jobs,  
 I encourage you to see my main GitHub account (really, it's REALLY FUN)  
 
-<a href="https://www.github.com/cccLUCASccc">
-  <img src="https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif" alt="lets party" width="300"/>
-</a>  
-
-
-[🚀 Click here to visit my GitHub 🚀](https://www.github.com/cccLUCASccc)
+[![lets party](https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif)](https://www.github.com/cccLUCASccc)
 
 ---
 
