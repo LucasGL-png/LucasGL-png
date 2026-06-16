@@ -13,7 +13,7 @@ This is my private account for my job as Power Plateform Dev and IT at Golegal.
     - Ajax
     - JQuerry
     - Dom Manipulation
-    - Termninal
+    - Terminal
       - PowerShell / Bash
       - CLI VsCode
 
